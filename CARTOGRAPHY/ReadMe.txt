@@ -1,4 +1,4 @@
-ReadMe.txt
+CARTOGRAPHY
 
 # Ce conteneur recense le script R-studio d'exploitation de la bibliothèque "CARTOGRAPHY" disponible avec R aisni que les résultats d'analyses obtenues.
 
