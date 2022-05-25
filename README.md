@@ -1,6 +1,6 @@
 # Analyses Spatiales ENSG
 
-Travaux Pratiques d'analyses spatiales réalisées dans le cadre du cours éponyme
+Travaux Pratiques d'analyses spatiales réalisées dans le cadre du cours du même nom.
 
 ## [Données](https://github.com/pascalpvk/AnalyseSpatialeENSG/tree/main/DONNEES)
 
