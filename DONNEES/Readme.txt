@@ -1,9 +1,14 @@
-Concernant les jeux de données, voila ce que j'ai retrouvé pour le moment de mon coté :
+# DONNEES POUR L'ETUDE
 
-- le jeu de données niveau tribunal est complet sur le shp (il y a en plus l'excel)
-- le jeu de données sur les services de police/gendarmerie est en 2 : une partie géo et une partie csv (avec les données chiffrées), j'ai l'impression que la jointure sur les champs Id n'est pas bonne...
-- le jeu d données niveau département est uniquement en csv (il y a le numéro de département ansi que le nom de département dans les colonnes)
+Les jeux de données exploitées lors de ce TP sont disponibles sous deux versions : une première avec des données associées aux surfaces des entités et une seconde avec des données associées aux ponctuels représentatifs des entités (centroïde ou point particulier, suivant).
 
-En gros on peut travailler directement sur le niveau tribunal ou département, le niveau service demandera un peu de boulot pour recomposer le jeu de données...
+## Données ponctuelles
 
-Ps : le fichier shp sur les services est trop lourd pour être mis ici...
+### [Département](https://github.com/pascalpvk/AnalyseSpatialeENSG/tree/main/DONNEES/DEPARTEMENT)
+### [Tribunaux](https://github.com/pascalpvk/AnalyseSpatialeENSG/tree/main/DONNEES/TJ)
+
+## Données surfaciques
+
+### [Département](https://github.com/pascalpvk/AnalyseSpatialeENSG/tree/main/DONNEES/anaspa_dep)
+### [Service](https://github.com/pascalpvk/AnalyseSpatialeENSG/tree/main/DONNEES/anaspa_service)
+### [Tribunal](https://github.com/pascalpvk/AnalyseSpatialeENSG/tree/main/DONNEES/anaspa_tribunal)
