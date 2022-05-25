@@ -6,4 +6,7 @@ Travaux Pratiques d'analyses spatiales réalisées dans le cadre du cours épony
 
 ## [AutoCorrélation](https://github.com/pascalpvk/AnalyseSpatialeENSG/tree/main/AutoCorrelation)
 
+## [Bibliothèque Cartography](https://github.com/pascalpvk/AnalyseSpatialeENSG/tree/main/CARTOGRAPHY)
+
+## [QGis - Analyse spatiale](https://github.com/pascalpvk/AnalyseSpatialeENSG/tree/main/QGIS)
 
