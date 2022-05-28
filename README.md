@@ -16,9 +16,16 @@ Il est possible de [consulter le rapport précédent pour obtenir un contextuali
 
 ## [AutoCorrélation](https://github.com/pascalpvk/AnalyseSpatialeENSG/tree/main/AutoCorrelation)
 
++ [Présentation des résultats](AutoCorrelation/autocorelation.pdf)
++ [Code R](AutoCorrelation/auto_correlation.R)
+
 ## [Bibliothèque R dédiée : Cartography](https://github.com/pascalpvk/AnalyseSpatialeENSG/tree/main/CARTOGRAPHY)
++ [Présentation des résultats](CARTOGRAPHY/resultat_librarie_cartography.pdf)
++ [Code R](CARTOGRAPHY/cartography.R)
 
 ## [QGis - Analyse spatiale](https://github.com/pascalpvk/AnalyseSpatialeENSG/tree/main/QGIS)
++ [Présentation des résultats](QGIS/résultats_QGIS.pdf)
+
 
 ## Groupe de Travail
 + [David Delord](https://github.com/daviddelord38) - [David.Delord@ensg.eu](mailto:David.Delord@ensg.eu)
